@@ -1,3 +1,0 @@
-# Arabic line
-
-Arabic line
